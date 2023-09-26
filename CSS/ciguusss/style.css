@@ -1,0 +1,62 @@
+marquee {
+    color: blue;
+}
+ul>li>.mes{
+    width: 100px;
+    height: 100px;
+    border: 3px black dashed;
+    background-image:url(messi.jpeg) ;
+    background-size: cover;
+    background-position: center;
+    outline: 1px dashed;
+    border-radius: 10% 40%;
+
+}
+ul>li>.ron{
+    width: 100px;
+    height: 100px;
+    border: 3px black dashed;
+    background-image: url(ronaldo.jpeg);
+    background-size: cover;
+    outline: 1px dashed black;
+    border-radius: 30% 20%;
+
+}
+ul>li>.ronal{
+    width: 100px;
+    height: 100px;
+    border: 3px black dashed;
+    background-image: url(ronaldinho.jpeg);
+    background-size: cover;
+    background-position: center;
+    outline: dashed 1px black ;
+    border-radius: 30% 70%;
+}
+ul>li>.car{
+    width: 100px;
+    height: 100px;
+    border: 3px black dashed;
+    background-image: url(roberto.jpeg);
+    background-size: cover;
+    outline: 1px dashed black;
+    border-radius: 50%;
+}
+ul>li>.ben{
+    width: 100px;
+    height: 100px;
+    border: 3px black dashed;
+    background-image: url(benzema.jpeg);
+    background-size: cover;
+    outline: 1px dashed black;
+    border-radius: 1% 33%;
+}
+ul>li>.ney{
+    width: 100px;
+    height: 100px;
+    border: 3px black dashed;
+    background-image: url(neymar.jpeg);
+    background-size: cover;
+    background-position: center;
+    outline: 1px dashed black;
+    border-radius: 50% ;
+}
